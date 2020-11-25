@@ -1,0 +1,9 @@
+body{
+    background:radial-gradient(lightblue,skyblue,cyan,blue,indigo);
+}
+canvas{
+    margin-left: 10%;
+    margin-top: 1%;
+    border:15px solid rgb(17, 15, 15);
+    padding: -5px;
+}
